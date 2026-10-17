@@ -1,0 +1,11 @@
+{
+  "org": "IST-DASLab",
+  "repo": "gptq",
+  "versions": [
+    {
+      "commit": "2d65066eeb06a5c9ff5184d8cebdf33662c67faf",
+      "tag": "",
+      "parsed_at": "2026-10-17T13:50:39.848159+00:00"
+    }
+  ]
+}
