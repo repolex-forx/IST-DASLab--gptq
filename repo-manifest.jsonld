@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/IST-DASLab/gptq/commit/2d65066eeb06a5c9ff5184d8cebdf33662c67faf",
       "git:hexsha": "2d65066eeb06a5c9ff5184d8cebdf33662c67faf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
